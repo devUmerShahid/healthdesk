@@ -17,7 +17,6 @@ export default function Home() {
       <HowItWorks />
       <Pricing />
       <SecurityCompliance />
-      <Testimonials />          {/* Repeated for stronger trust before final CTA */}
       <CTA />
     </div>
   );
